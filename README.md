@@ -14,7 +14,6 @@ The Stare dataset is from https://cecas.clemson.edu/~ahoover/stare/
 The CHASE_DB1 dataset is from https://blogs.kingston.ac.uk/retinal/chasedb1/
 
 
-
 HOW TO RUN
 
 
