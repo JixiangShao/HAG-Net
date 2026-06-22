@@ -20,32 +20,23 @@ HOW TO RUN
 First of all, you need the DRIVE database. We are not allowed to provide the data here, but you can download the DRIVE database at the official website. Extract the images to a folder, and call it "DRIVE", for example. This folder should have the following tree:
   
   DRIVE
-
   
   │
 
-  
   └───test
 
-  
   |    ├───1st_manual
-
   
   |    └───2nd_manual
 
-  
   |    └───images
 
-  
   |    └───mask
-
   
   │
-
   
   └───training
 
-  
       ├───1st_manual
 
       
