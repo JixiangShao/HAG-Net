@@ -21,16 +21,28 @@ First of all, you need the DRIVE database. We are not allowed to provide the dat
   
   DRIVE
   │
+  
   └───test
+  
   |    ├───1st_manual
+  
   |    └───2nd_manual
+  
   |    └───images
+  
   |    └───mask
+  
   │
+  
   └───training
+  
       ├───1st_manual
+      
       └───images
+      
       └───mask
+
+
 
 The same procedure applies to other datasets as well. The only thing you should do is enter the dataset.py and correct the path of the datasets. 
 
