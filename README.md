@@ -22,26 +22,22 @@ First of all, you need the DRIVE database. We are not allowed to provide the dat
   DRIVE
   
   │
-
+  
   └───test
-
-  |    ├───1st_manual
   
-  |    └───2nd_manual
-
-  |    └───images
-
-  |    └───mask
-  
-  │
-  
-  └───training
-
       ├───1st_manual
-
+      
+      └───2nd_manual
       
       └───images
-
+      
+      └───mask
+  
+  └───training
+      
+      ├───1st_manual
+      
+      └───images
       
       └───mask
 
